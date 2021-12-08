@@ -1,4 +1,4 @@
-name: Build  #This is a test build
+name: Build  #This is a test
 on:
   push:
     branches:
